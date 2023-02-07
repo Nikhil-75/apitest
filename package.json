@@ -1,0 +1,19 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Nikhil-75/apitest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil-75/apitest/issues"
+  },
+  "homepage": "https://github.com/Nikhil-75/apitest#readme"
+}
